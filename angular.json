@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-tic-tac"
+    }
+  },
+  "defaultProject": "ng-tic-tac",
+  "cli": {
+    "analytics": false
+  }
 }
